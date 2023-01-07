@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = airLineReservationSystem
+build_property.RootNamespace = airLineReservationSystem
+build_property.ProjectDir = /Users/Neel_Esh/Downloads/airLineReservationSystem 2/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/Neel_Esh/Downloads/airLineReservationSystem 2
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Admin/AddFlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vQWRkRmxpZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Admin/EditFlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdEZsaWdodC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Admin/EditFlight1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vRWRpdEZsaWdodDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Admin/ViewAllFlights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWRtaW4vVmlld0FsbEZsaWdodHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Login/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vQWNjZXNzRGVuaWVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Login/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Login/SignUpFailed.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vU2lnblVwRmFpbGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Login/SignUpSucess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vU2lnblVwU3VjZXNzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/User/SearchFlight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9TZWFyY2hGbGlnaHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/User/TicketBooking.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9UaWNrZXRCb29raW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/User/ViewAllBookedTickets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9WaWV3QWxsQm9va2VkVGlja2V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/User/ViewAvailableFlights.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVXNlci9WaWV3QXZhaWxhYmxlRmxpZ2h0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/Neel_Esh/Downloads/airLineReservationSystem 2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-50tri9nj7v

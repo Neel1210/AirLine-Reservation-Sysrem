@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/airLineReservationSystem.props" />
+</Project>
